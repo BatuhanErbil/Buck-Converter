@@ -1,0 +1,28 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [BatuhanErbilBuckConverter.PrjPcb]
+   Generated File[BatuhanErbilBuckConverter.GTO]
+   Generated File[BatuhanErbilBuckConverter.GTP]
+   Generated File[BatuhanErbilBuckConverter.GTS]
+   Generated File[BatuhanErbilBuckConverter.GTL]
+   Generated File[BatuhanErbilBuckConverter.GBL]
+   Generated File[BatuhanErbilBuckConverter.GBS]
+   Generated File[BatuhanErbilBuckConverter.GBP]
+   Generated File[BatuhanErbilBuckConverter.GBO]
+   Generated File[BatuhanErbilBuckConverter.GM1]
+   Generated File[BatuhanErbilBuckConverter.GM13]
+   Generated File[BatuhanErbilBuckConverter.GM15]
+   Generated File[BatuhanErbilBuckConverter.GKO]
+   Generated File[BatuhanErbilBuckConverter.GPT]
+   Generated File[BatuhanErbilBuckConverter.GPB]
+   Generated File[BatuhanErbilBuckConverter.GD1]
+   Generated File[BatuhanErbilBuckConverter.GG1]
+   Generated File[BatuhanErbilBuckConverter.RUL]
+   Generated File[BatuhanErbilBuckConverter.EXTREP]
+   Generated File[BatuhanErbilBuckConverter.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 04:54:14 On 13.10.2021
